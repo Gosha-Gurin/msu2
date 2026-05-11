@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <text x="0" y="0" dx="0" dy="0" font-size="10" font-family="Hi!" fill="red" stroke="blue" stroke-width="10">
+        Hello world!
+    </text>
+</svg>
